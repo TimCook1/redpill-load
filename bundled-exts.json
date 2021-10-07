@@ -1,3 +1,4 @@
 {
-  "timcook.virtio": "https://raw.githubusercontent.com/TimCook1/redpill-virtio/master/rpext-index.json"
+  "timcook.virtio": "https://raw.githubusercontent.com/TimCook1/redpill-virtio/master/rpext-index.json",
+  "timcook.mpt2sas": "https://raw.githubusercontent.com/TimCook1/rp-ext/master/mpt2sas/rpext-index.json"
 }
